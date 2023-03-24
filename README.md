@@ -1,6 +1,6 @@
 # Protótipo de Sistema Embarcado para Monitoramento de Salas de Servidores
 ## **Para melhor compreensão, recomendo a leitura do artigo anexado.**
-## Itens utilizados:
+## Componentes utilizados:
 - 1 Módulo ESP-WROOM-32
 - 1 Módulo Sensor DHT11
 - 1 Módulo Sensor DS18B20
