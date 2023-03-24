@@ -1,4 +1,4 @@
-# Projeto de Sistema Embarcado para Monitoramento de Salas de Servidores
+# Protótipo de Sistema Embarcado para Monitoramento de Salas de Servidores
 ## **Para melhor compreensão, recomendo a leitura do artigo anexado.**
 ## Itens utilizados:
 - 1 Módulo ESP-WROOM-32
